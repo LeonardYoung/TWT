@@ -216,9 +216,4 @@ def run_once():
 
 if __name__ == '__main__':
 
-    # for idx in [0,1,2,3,6,8]:
-    #     Config.fac_idx = idx
-    #     # Config.save_root = f"./result/water/{Config.pre_fix}_{Config.fac_idx}"
-    #     Config.save_root = f"./result/water/{Config.pre_fix}_{Config.fac_idx}"
-    #     run_once()
     run_once()
